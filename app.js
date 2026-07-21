@@ -12,3 +12,6 @@ console.log("Nota 1:", nota1);
 console.log("Nota 2:", nota2); 
 console.log("Nota 3:", nota3); 
 console.log("Promedio:", promedio.toFixed(2)); 
+
+console.log("----------------------"); 
+console.log("Fin del programa"); 
